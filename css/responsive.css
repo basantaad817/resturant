@@ -29,7 +29,16 @@
 
 }
 @media (max-width:767px){
-    
+
     /*carousel design*/   
 
 }
+@media (max-width:330px) {
+
+    /* carousel design */
+    .testimonial-section .carousel-item{
+        padding:13rem 3.125rem;
+    }
+     
+}
+        
